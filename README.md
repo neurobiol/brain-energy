@@ -5,11 +5,11 @@
 
 This project asks how recorded brain activity changes after a visual flash, how activity in one brain region helps predict activity in another, and whether compact mathematical models can describe those patterns.
 
-The website includes the A0 research poster, an explanation of every poster section, and links to the related project pages. The poster PDF is in [`public/poster/brain-energy-v8-poster.pdf`](public/poster/brain-energy-poster.pdf).
+The website includes the A0 research poster, an explanation of every poster section, and links to the related project pages. The poster PDF is in [`public/poster/brain-energy-poster.pdf`](public/poster/brain-energy-poster.pdf).
 
 ## Read the poster
 
-[Open or download the poster PDF](poster.pdf)
+[Open the poster PDF](poster.pdf)
 
 ## What we did
 
@@ -64,29 +64,4 @@ This is a preliminary analysis of three mouse sessions, with only two complete t
 - [Research welcome page](https://github.com/neurobiol/welcome/tree/main)
 - [Unlearn project example](https://github.com/neurobiol/unlearn)
 
-## Run the website locally
 
-Requirements: Node.js 20 or newer and npm.
-
-```bash
-npm install
-npm run dev
-```
-
-Create a production build with `npm run build`. To preview it locally, run `npm run preview`.
-
-## Publish with GitHub Pages
-
-1. Create a new public repository for this project and push these files to its `main` branch.
-2. In the repository settings, open **Pages** and set the source to **GitHub Actions**.
-3. The included workflow builds the Vue app and publishes the `dist/` folder after pushes to `main`.
-
-The Vite config reads the repository name from GitHub Actions so the app works from the Pages subpath. For local builds, it uses `/`.
-
-## QR code space
-
-The poster has a reserved QR-code area. Generate a QR code for the published GitHub Pages URL and add it to the poster source before printing if you want the printed poster to link directly to the app.
-
-## Poster source and scientific data
-
-The included PDF is the finalized poster. The detailed numerical methods, reproducibility files, and source recording excerpts belong in the separate V8 research archive; this small website repository is designed to remain easy to clone and publish.
