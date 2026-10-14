@@ -1,11 +1,11 @@
-# Brain Energy: What the V8 poster shows
+# Brain Energy
 
-**Authors:** Yashine, Lea, Craddock  
+**Authors:** Yashine H. Goolam Hossen, Lea Gassab, T. J. A. Craddock  
 **Department of Biology, University of Waterloo**
 
 This project asks how recorded brain activity changes after a visual flash, how activity in one brain region helps predict activity in another, and whether compact mathematical models can describe those patterns.
 
-The website includes the A0 research poster, a plain-language explanation of every poster section, and links to the related project pages. The poster PDF is in [`public/poster/brain-energy-v8-poster.pdf`](public/poster/brain-energy-v8-poster.pdf).
+The website includes the A0 research poster, an explanation of every poster section, and links to the related project pages. The poster PDF is in [`public/poster/brain-energy-v8-poster.pdf`](public/poster/brain-energy-poster.pdf).
 
 ## Read the poster
 
