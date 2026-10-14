@@ -40,10 +40,10 @@ function setActive(id: string) {
         <div class="hero-copy">
           <p class="eyebrow"><span class="eyebrow-line"></span> REAL NEURAL RECORDINGS · EXPLORATORY ANALYSIS</p>
           <h1>What can neural<br /><em>activity tell us?</em></h1>
-          <p class="hero-deck">A plain-language guide to our V8 poster, comparing classical and quantum-like mathematical models on real visual-system recordings.</p>
+          <p class="hero-deck">A guide to our poster, comparing classical and quantum-like mathematical models on real visual-system recordings.</p>
           <div class="author-line">
             <div class="author-dots"><span>Y</span><span>L</span><span>C</span></div>
-            <div><strong>Yashine, Lea, Craddock</strong><small>Department of Biology · University of Waterloo</small></div>
+            <div><strong>Yashine H. Goolam Hossen, Lea Gassab, T. J. A. Craddock</strong><small>Department of Biology · University of Waterloo</small></div>
           </div>
           <div class="hero-actions">
             <a class="btn-main" href="#guide">Explore the findings <span>↓</span></a>
