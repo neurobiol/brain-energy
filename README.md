@@ -11,6 +11,18 @@ The website includes the A0 research poster, an explanation of every poster sect
 
 [Open the poster PDF](poster.pdf)
 
+### Summary 
+
+1. **Forecasting:** The figure compares how well different models predict neural spike counts after a visual flash. Classical models predicted slightly better, while the quantum-like model and its classical twin made identical predictions.
+
+2. **Flash decoding:** This figure shows whether brain activity after a flash can identify if it was black or white. The classical decoder was correct on about 98% of held-out trials, but this alone does not prove the mice were keeping the flash in working memory.
+
+3. **Directed activity between regions:** The figure shows cases where recent activity in one brain region helped predict activity in another. These are statistical links in the recordings, not proof that one region caused or directly sent information to the other.
+
+4. **Energy and model size:** This figure compares model accuracy and size alongside an estimated ATP cost based on assumptions. The ATP values are proxies rather than direct measurements, and the quantum-like model did not show a unique energy-efficiency advantage.
+
+
+
 ## What we did
 
 We analyzed real recordings from the Allen Institute’s Visual Coding Neuropixels dataset. Neuropixels probes record the brief electrical spikes produced by many neurons. The analysis selected three mouse recording sessions and studied responses to brief black or white visual flashes.
